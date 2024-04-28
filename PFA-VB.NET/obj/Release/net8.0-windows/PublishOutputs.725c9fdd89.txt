@@ -1,0 +1,5 @@
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Release\net8.0-windows\publish\PFA-VB.NET.exe
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Release\net8.0-windows\publish\PFA-VB.NET.dll
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Release\net8.0-windows\publish\PFA-VB.NET.deps.json
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Release\net8.0-windows\publish\PFA-VB.NET.runtimeconfig.json
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Release\net8.0-windows\publish\PFA-VB.NET.pdb

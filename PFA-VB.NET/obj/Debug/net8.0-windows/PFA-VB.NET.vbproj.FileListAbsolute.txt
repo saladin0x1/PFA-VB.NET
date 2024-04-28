@@ -1,0 +1,16 @@
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Debug\net8.0-windows\PFA-VB.NET.exe
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Debug\net8.0-windows\PFA-VB.NET.deps.json
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Debug\net8.0-windows\PFA-VB.NET.runtimeconfig.json
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Debug\net8.0-windows\PFA-VB.NET.dll
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\bin\Debug\net8.0-windows\PFA-VB.NET.pdb
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA_VB.NET.Form1.resources
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.vbproj.GenerateResource.cache
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.AssemblyInfoInputs.cache
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.AssemblyInfo.vb
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.vbproj.CoreCompileInputs.cache
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.dll
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\refint\PFA-VB.NET.dll
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.pdb
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\PFA-VB.NET.genruntimeconfig.cache
+C:\Users\selou\OneDrive\Bureau\PFA-VB.NET\PFA-VB.NET\obj\Debug\net8.0-windows\ref\PFA-VB.NET.dll
